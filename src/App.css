@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.dev::before {
+  content:"/*   ";
+}
+
+.chart {
+  background-color:#fbfbfb;
+  border-radius:15px;
+  width:1130px;
+
+}
+
+.chart2{
+  border-radius:15px;
+  width:350px;
+  background-color:red ;
+}
+
+
+.chart3{
+  background-color:#282d30;
+  border-radius:15px;
+  width:350px;
+
+}
+
+.chart-score{
+  background-color:#fbfbfb;
+  border-radius:15px;
+  width:350px;
+}
+
+.radialbar {
+  margin-left:-80px;
+  margin-top:-80px;
+}
+
+.objectif{
+  position:relative;
+  top:120px;
+  left:120px;
+  color:#74798c;
+
+}
+
+.objectif2{
+margin-top:-25px;
+}
+
+.objectifbig{
+  font-size:200%;
+  color:#000;
+}
+
+.chartitle {
+  padding-left:30px;
+  padding-top:15px;
+  padding-bottom:7px;
+}
+
+.chartable td {
+padding:15px;
+}
+
+.tabright{
+  position: absolute;
+  left : 1180px;
+  top: 82px;
+  /*height:800px;*/
+  width:300px;
+  /*background-color:#fbfbfb;*/
+}
+
+.tabright tr{
+  background-color:#fbfbfb;
+  padding:15px;
+   border-radius: 30px;
+  margin-bottom:30px;
+}
+
+.elem2 {
+  margin-top:-25px;
+}
+
+
+.tabright img{
+  height:60px;
+  /*padding:15px;*/
+}
+
+.tabinfos{
+  float:right;
+}
+
+.tabright .info1{
+  font-size:125%;
+  padding-right:3px;
+  padding-left:10px;
+  margin-top:8px;
+}
+
+.tabright .info2{
+  font-size:80%;
+  margin-top:-11px;
+  color:#74798c;
+  padding-left:10px;
+}
+
+
+
+.rightbg{
+  background-color:#fbfbfb;
+  border-radius:15px;
+}
+
+.pink{
+  color:#ffabab;
+}
+
+.dev {
+  font-family: 'Lucida Console';
+  background-color:#e5cfcf;
+  padding:15px;
+  border-radius: 15px;
+}
+
+.dev::after {
+  content:"  */";
+}
+
+#Home{
+  height:100%;
+}
+
+#TopMenu {
+  background-color: #000;
+  height:110px;
+  color:white;
+  width:100%;
+  box-shadow: 0px 3px 3px grey;
+}
+
+#TopMenu table{
+  width:100%;
+  padding-top:30px;
+  padding-left:28px;
+  font-size:24px;
+}
+
+#TopMenu td {
+  width:20%;
+}
+
+#TopMenu img{
+  height:58px;
+}
+
+
+#LeftMenu {
+  width:117px;
+  height:1024px;
+  background-color: #000;
+  color:white;
+  margin-top:-20px;
+}
+
+#LeftMenu table{
+  margin-left:23px;
+  margin-top:200px;
+}
+
+#LeftMenu table img{
+margin-bottom:15px;
+}
+
+.vertical{
+  transform: rotate(270deg)
+}
+
+.bottom{
+  position: relative;
+  left: -40px;
+
+top: 78%;
+
+width:210px;
+}
+
+.test{
+  background-color: red;
+}
+
+.red{
+  color: red;
+}
+
+#Main{
+  position:absolute;
+  top:200px;
+  left:250px;
+  width:72%;
+  max-width:72%;
+
+}
+
+
+.elemright{
+  background-color:#fbfbfb;
+  border-radius:15px;
+  padding:20px;
+  margin-bottom:30px;
+
+}
+
+

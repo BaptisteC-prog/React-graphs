@@ -1,0 +1,4 @@
+il faut lancer les data utilisateur (dossier datamock) séparement , je les ai configurées sur le port 3300
+
+vous pouvez consulter 
+http://localhost:3000/user/12 ou bien http://localhost:3000/user/18 pour voir les differentes statistiques
